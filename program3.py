@@ -1,8 +1,7 @@
 #1
 x= "Varshitha"
 y= 21
-print ("my name is", x , "and I am" , y , "years old.")
-
+print("my name is", x , "and I am" , y , "years old.")
 
 #2
 x= int(input("enter current year"))
