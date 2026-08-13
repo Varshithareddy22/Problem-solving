@@ -1,7 +1,7 @@
 #finding 2nd largest number 
-x = int(input("enter the value"))
-y = int(input("enter the value"))
-z = int(input("enter the value"))
+x = int(input("enter the value:"))
+y = int(input("enter the value:"))
+z = int(input("enter the value:"))
 
 if (x > y and x < z) or (x < y and x > z):
     print("x is the second largest number")
@@ -11,9 +11,9 @@ else:
     print("z is the second largest number")
 
 #greatest and 2nd greatest value
-x = int(input("enter the value of x"))
-y = int(input("enter the value of y"))
-z = int(input("enter the value of z"))
+x = int(input("enter the value of x:"))
+y = int(input("enter the value of y:"))
+z = int(input("enter the value of z:"))
 if x > y and x > z:
     print("x is greater")
     if y > z:
