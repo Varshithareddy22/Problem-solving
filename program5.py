@@ -7,9 +7,9 @@ else:
 
 
 #2
-x= int(input("enter the value of x"))
-y= int(input("enter the value of y"))
-z= int(input("enter the value of z"))
+x= int(input("enter the value of x:"))
+y= int(input("enter the value of y:"))
+z= int(input("enter the value of z:"))
 if (x>y) and (x>z):
     print("x is greater")
 elif (y>x) and (y>z):
@@ -18,8 +18,8 @@ else:
     print("z is greater")
 
 #3
-x= int(input("enter the value of x"))
-y= int(input("enter the value of y"))
+x= int(input("enter the value of x:"))
+y= int(input("enter the value of y:"))
 if (x>0) and (y>0) :
     print(x,y,"numbers are positive")
 else :
