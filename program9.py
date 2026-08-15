@@ -58,6 +58,7 @@ print(reverse)
 '''
 
 #palindrome number
+'''
 x= int(input("enter the number:"))
 original=x
 reverse = 0
@@ -69,4 +70,13 @@ if (original==reverse):
     print(reverse,"is palindrome")
 else:
     print(reverse,"is not palindrome")
-    
+'''
+
+#factorial
+x= int(input("Enter the number"))
+factorial=1
+i=1
+while i<=x:
+    factorial=factorial*i
+    i=i+1
+print("factorial of ",x,"is",factorial)
