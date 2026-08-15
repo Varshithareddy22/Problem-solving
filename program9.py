@@ -12,7 +12,6 @@ print(sum)
 x= int(input("enter the table:"))
 i=1
 while i<=10:
-    j=x*i
-    print(j)
+    print(x*i)
     i=i+1
 
