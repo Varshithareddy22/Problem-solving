@@ -7,6 +7,7 @@ while x!=0:
     x=x//10
 print(reverse)
 
+
 #palindrome number
 x= int(input("enter the number:"))
 original=x
