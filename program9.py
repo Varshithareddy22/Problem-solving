@@ -18,7 +18,17 @@ while i<=10:
 '''
 
 #using for loop
+'''
 x=int(input("enter the number:"))
 for i in range (1,11,+1):
     print(x*i)
     i=i+1
+    '''
+
+#count digits
+x= int(input("enter the number:"))
+i=0
+while x>0:
+    x=x//10
+    i=i+1
+print(i)
