@@ -6,6 +6,7 @@ else:
     print(x,"is not a leap year")    
 
 
+
 #vowles and constants
 x=(input("Enter the letter:"))
 x=x.lower()
