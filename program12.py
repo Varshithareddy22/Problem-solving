@@ -4,4 +4,4 @@ x=x.lower()
 if x in "aeiou":
     print(x,"is a vowle")
 else:
-    print(x,"is a constant") 
+    print(x,"is a constant")
