@@ -4,4 +4,4 @@ m3=int(input("enter the m3 marks"))
 m4=int(input("enter the m4 marks"))
 m5=int(input("enter the m5 marks"))
 percentage = (m1+m2+m3+m4+m5)/500*100
-print(percentage)
+print(percentage) 
