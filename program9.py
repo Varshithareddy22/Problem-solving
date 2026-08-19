@@ -9,7 +9,6 @@ print(sum)
 
 
 #multiplication table
-
 x= int(input("enter the table:"))
 i=1
 while i<=10:
@@ -17,7 +16,7 @@ while i<=10:
     i=i+1
 
 
-#using for loop
+#multiplication table using for loop
 x=int(input("enter the number:"))
 for i in range (1,11,+1):
     print(x*i)
