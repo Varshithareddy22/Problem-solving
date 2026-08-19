@@ -1,3 +1,4 @@
+# calculate the percentage of 5 subjects
 m1=int(input("enter the m1 marks"))
 m2=int(input("enter the m2 marks"))
 m3=int(input("enter the m3 marks"))
