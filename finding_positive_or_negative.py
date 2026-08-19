@@ -1,3 +1,4 @@
+# finding the number is positive or negative
 n = int(input("enter the no:"))
 if n>0:
     print("no is positive")
