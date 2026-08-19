@@ -4,7 +4,6 @@ for i in range (1,11):
     print(i)
 
 #print 10 to 1
-
 for i in range (10,0,-1):
     print(i)
 
@@ -22,7 +21,7 @@ while i<=5:
     print("*")
     i=i+1
 
-#
+# pattern
 i = 5
 while i >= 1:
     j = 1
