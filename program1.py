@@ -1,4 +1,4 @@
-#storing of name,age & branch
+#storing of name,age & branch in variables
 name = "Varshitha"
 age = 21
 branch = "CSM" 
