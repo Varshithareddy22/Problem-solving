@@ -1,4 +1,4 @@
-#1
+#1 printing name and age
 x= "Varshitha"
 y= 21
 print("my name is", x , "and I am" , y , "years old.")
