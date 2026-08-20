@@ -10,7 +10,7 @@ elif (y > x and y < z) or (y < x and y > z):
 else:
     print("z is the second largest number")
 
-#greatest and 2nd greatest value
+#find greatest and 2nd greatest value
 x = int(input("enter the value of x:"))
 y = int(input("enter the value of y:"))
 z = int(input("enter the value of z:"))
