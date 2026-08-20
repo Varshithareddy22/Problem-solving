@@ -3,7 +3,7 @@ x= "Varshitha"
 y= 21
 print("my name is", x , "and I am" , y , "years old.")
 
-#2
+#2 finding age 
 x= int(input("enter current year:"))
 y= int(input("enter your birth year:"))
 a= x-y
