@@ -14,7 +14,7 @@ if x%5==0 and x%11==0:
 else:
     print(x,"is not divible 5 and 11") 
 
-#number lies between 10 and 50
+#checking if number lies between 10 and 50
 x= int(input("enter the variable:"))
 if x>=10 and x<=50 :
     print(x,"lies between 10 and 50")
