@@ -8,7 +8,7 @@ while x!=0:
 print(reverse)
 
 
-#palindrome number
+#palindrome 
 x= int(input("enter the number:"))
 original=x
 reverse = 0
