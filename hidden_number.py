@@ -1,4 +1,4 @@
-hidden_number = 7
+hidden_number = 18
 
 guess = int(input("Guess the hidden number: "))
 
