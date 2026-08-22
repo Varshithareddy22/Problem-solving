@@ -9,8 +9,13 @@ for movie in movies:
     print(movie)
 
 # adding movies
-#print list in sequence
 movies = ["Dear Comrade", "Arjun Reddy", "RRR"]
 movies.append("Kingdom")
+for movie in movies:
+    print(movie)
+
+#changing movies
+movies = ["Dear Comrade", "Arjun Reddy", "RRR"]
+movies[2]="Geetha Govindam"
 for movie in movies:
     print(movie)
