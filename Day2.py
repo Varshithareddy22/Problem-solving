@@ -10,4 +10,13 @@ print(len(sentence))
 
 #negative indexing
 sentence=input("Enter the sentence:")
-print(sentence(-1))
+print(sentence[-1])
+
+#string slicing
+sentence=input("Enter the sentence:")
+print(sentence[0:4])
+
+#string conversions
+sentence=input("Enter the sentence:")
+print(sentence.lower())
+print(sentence.upper())
