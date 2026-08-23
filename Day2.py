@@ -8,7 +8,7 @@ sentence=input("Enter the sentence:")
 print(sentence)
 print(len(sentence))
 
-#negative indexing
+# negative indexing
 sentence=input("Enter the sentence:")
 print(sentence[-1])
 
