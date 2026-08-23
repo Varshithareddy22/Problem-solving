@@ -12,7 +12,7 @@ print(len(sentence))
 sentence=input("Enter the sentence:")
 print(sentence[-1])
 
-#string slicing
+# string slicing
 sentence=input("Enter the sentence:")
 print(sentence[0:4])
 
