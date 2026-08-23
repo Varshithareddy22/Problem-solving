@@ -4,7 +4,7 @@ age = 21
 branch = "CSM" 
 print(name,age,branch)
 
-# calculator 
+# simple calculator 
 a=int(input("enter the number:"))
 b=int(input("enter the number:"))
 print(a+b)
