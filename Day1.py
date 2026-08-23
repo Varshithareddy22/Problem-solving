@@ -26,7 +26,7 @@ movies.remove("RRR")
 for movie in movies:
     print(movie)
 
-#All changes at once
+# All changes at once
 movies = ["Dear Comrade", "Arjun Reddy", "RRR"]
 movies.append("Kingdom")
 movies.remove("RRR")
