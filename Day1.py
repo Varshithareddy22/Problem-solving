@@ -91,3 +91,7 @@ marks.append(m5)
 marks.sort()
 print(marks)
 
+
+list sum
+l1 = [5,6,7,8]
+print(sum(l1))
