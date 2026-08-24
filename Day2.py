@@ -53,6 +53,13 @@ m = "Manas is  hired"
 print(m.find("  "))
 
 
+
 # replace double sapce with single space 
-print(m.replace("  ", " "))
+print(m.replace("  ", " "))'''
+
+# special characters 
+letter = "Dear Manas,\nThis python course is nice.\nThanks!"
+print(letter)
+
+
 
