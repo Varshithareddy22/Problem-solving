@@ -40,3 +40,9 @@ name = input(" Enter your name:")
 print(f"Good morning {name}")
 
 
+letter
+letter = '''Dear <|NAME|>,
+You are selected!
+<|DATE|>'''
+print(letter.replace("<|NAME|>","Manas").replace("<|DATE|>","19/05/2026"))
+
