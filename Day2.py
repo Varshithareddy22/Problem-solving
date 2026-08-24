@@ -46,3 +46,9 @@ You are selected!
 <|DATE|>'''
 print(letter.replace("<|NAME|>","Manas").replace("<|DATE|>","19/05/2026"))
 
+
+
+# detect double space 
+'''m = "Manas is  hired"
+print(m.find("  "))
+
