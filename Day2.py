@@ -54,5 +54,5 @@ print(m.find("  "))
 
 
 # replace double sapce with single space 
-print(m.replace("  ", " "))'''
+print(m.replace("  ", " "))
 
