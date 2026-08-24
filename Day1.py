@@ -34,4 +34,17 @@ movies[2]="Geetha Govindam"
 for movie in movies:
     print(movie)
 
-    
+# lists
+
+list = input("Enter 7 fruits names :")
+print(list.split(","))
+
+'list = [1,5,2,66,9,8,10,100]
+list.sort()
+list.reverse()
+list.insert(5,50)
+list.pop(5)
+list.append(500)
+list.remove(100)
+print(list)
+
