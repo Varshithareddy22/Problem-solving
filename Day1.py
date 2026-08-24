@@ -57,3 +57,22 @@ t=tuple.count("am")
 print(t)
 print(tuple.count("am"))
 
+
+fruits =[]
+
+f1 = input("Enter  fruits names :")
+fruits.append(f1)
+
+f2 = input("Enter  fruits names :")
+fruits.append(f2)
+
+f3 = input("Enter  fruits names :")
+fruits.append(f3)
+
+f4 = input("Enter  fruits names :")
+fruits.append(f4)
+
+f5 = input("Enter  fruits names :")
+fruits.append(f5)
+print(fruits)
+
