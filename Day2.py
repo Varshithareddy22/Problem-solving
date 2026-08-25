@@ -40,7 +40,7 @@ name = input(" Enter your name:")
 print(f"Good morning {name}")
 
 
-# letter
+# letter using multiline comments
 letter = '''Dear <|NAME|>,
 You are selected!
 <|DATE|>'''
