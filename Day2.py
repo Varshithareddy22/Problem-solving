@@ -58,7 +58,7 @@ print(m.find("  "))
 print(m.replace("  ", " "))
 
 # special characters 
-letter = "Dear Manas,\nThis python course is nice.\nThanks!"
+letter = "Dear ,\nThis python course is nice.\nThanks!"
 print(letter)
 
 
