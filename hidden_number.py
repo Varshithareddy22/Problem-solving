@@ -1,3 +1,4 @@
+# guessing a number 
 hidden_number = 18
 guess = int(input("Guess the hidden number: "))
 if guess == hidden_number:
