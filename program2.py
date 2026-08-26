@@ -1,4 +1,4 @@
-#swap with temp variable 
+# swapping a variable with temp variable 
 x=1
 y=2
 temp=x
