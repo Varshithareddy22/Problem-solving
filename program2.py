@@ -6,7 +6,7 @@ x=y
 y=temp
 print(x,y)
 
-#swap without temp variable
+# swapping a variable without temp variable
 x=1
 y=2
 x=x+y
