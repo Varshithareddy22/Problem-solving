@@ -30,3 +30,9 @@ while i<=x:
     factorial=factorial*i
     i=i+1
 print("factorial of ",x,"is",factorial)
+
+# break statement
+for i in range(1,50,2):
+    if i ==25:
+        break
+    print(i)
