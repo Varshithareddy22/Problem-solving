@@ -34,10 +34,8 @@ for movie in movies:
     print(movie)
 
 # lists
-
 list = input("Enter 7 fruits names :")
 print(list.split(","))
-
 list = [1,5,2,66,9,8,10,100]
 list.sort()
 list.reverse()
@@ -55,22 +53,15 @@ print(type(tuple))
 t=tuple.count("am")
 print(t)
 print(tuple.count("am"))
-
-
 fruits =[]
-
 f1 = input("Enter  fruits names :")
 fruits.append(f1)
-
 f2 = input("Enter  fruits names :")
 fruits.append(f2)
-
 f3 = input("Enter  fruits names :")
 fruits.append(f3)
-
 f4 = input("Enter  fruits names :")
 fruits.append(f4)
-
 f5 = input("Enter  fruits names :")
 fruits.append(f5)
 print(fruits)
