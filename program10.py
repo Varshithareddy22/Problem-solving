@@ -43,3 +43,7 @@ for i in range(1,50):
         continue
     print(i)
 
+
+l1 =(1,2,"manas","varshitha","rohit","virat","rohit",8,9)
+for item in l1:
+    print(item)
