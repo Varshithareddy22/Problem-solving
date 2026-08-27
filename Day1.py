@@ -1,5 +1,4 @@
 # movie list manager
- 
 movies = ["Dear Comrade", "Arjun Reddy", "RRR"]
 print(movies)
 
