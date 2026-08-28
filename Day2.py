@@ -33,7 +33,6 @@ print(sentence.replace("a","A"))
 print(sentence.count("a"))
 
 
-
 # strings
 name = input(" Enter your name:")
 print(f"Good morning {name}")
