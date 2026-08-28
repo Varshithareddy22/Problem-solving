@@ -13,6 +13,7 @@ print(a-b)
 print(a*b)
 print(a/b)
 
+
 # area of rectangle
 l=int(input("enter the length:"))
 b=int(input("enter the breadth:"))
