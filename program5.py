@@ -17,6 +17,7 @@ elif (y>x) and (y>z):
 else:
     print("z is greater")
 
+
 #3 finding if the the number is positive or negative
 x= int(input("enter the value of x:"))
 y= int(input("enter the value of y:"))
