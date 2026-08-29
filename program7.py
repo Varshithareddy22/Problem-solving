@@ -1,4 +1,4 @@
-#finding 2nd largest number 
+# finding 2nd largest number 
 x = int(input("enter the value:"))
 y = int(input("enter the value:"))
 z = int(input("enter the value:"))
