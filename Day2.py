@@ -1,4 +1,5 @@
 # STRINGS 
+# printing a string
 sentence=input("Enter the sentence:")
 print(sentence)
 
