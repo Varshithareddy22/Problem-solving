@@ -23,7 +23,7 @@ print(sentence.upper())
 print(sentence.replace("a","A"))
 print(sentence.count("a"))
 
-# print all at a time
+# print sentence using all at a time
 sentence=input("Enter the sentence:")
 print(len(sentence))
 print(sentence[-1])
