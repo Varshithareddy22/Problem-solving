@@ -55,7 +55,7 @@ print(m.find("  "))
 print(m.replace("  ", " "))
 
 
-# special characters 
+# special characters in  sentence 
 letter = "Dear ,\nThis python course is nice.\nThanks!"
 print(letter)
 
