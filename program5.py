@@ -1,4 +1,5 @@
 #1 checking age eligibilty for voting
+
 x= int(input("enter the voter age: "))
 if x>=18 :
     print("Eligible to vote")
