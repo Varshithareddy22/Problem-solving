@@ -1,4 +1,4 @@
-# divisible by 3 or 7
+# finding divisible by 3 or 7
 x= int(input("enter the variable:"))
 if x%3==0 :
     print(x,"is divisible by 3")
