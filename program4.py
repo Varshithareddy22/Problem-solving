@@ -1,4 +1,4 @@
-#calculate square&cube of the number
+#calculate square & cube of the number
 x= int(input("enter the number"))
 a=pow(x, 2)
 b=pow(x, 3)
