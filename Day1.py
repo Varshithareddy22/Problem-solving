@@ -47,7 +47,7 @@ list.remove(100)
 print(list)
 
 
-# tuples 
+# printing tuples 
 tuple =(1,"am",5,7 )
 print(tuple)
 print(type(tuple))
