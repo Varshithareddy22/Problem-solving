@@ -1,4 +1,4 @@
-#1 printing name and age
+#1 printing name and age 
 x= "Varshitha"
 y= 21
 print("my name is", x , "and I am" , y , "years old.")
@@ -11,7 +11,7 @@ a= x-y
 print("your age is",a)
 
 
-#3  Multiplying numbers
+#3  Multiplying no
 x= int(input("enter number:"))
 y= int(input("enter number:"))
 a= x*y
