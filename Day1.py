@@ -15,11 +15,13 @@ movies.append("Kingdom")
 for movie in movies:
     print(movie)
 
+
 # changing movies
 movies = ["Dear Comrade", "Arjun Reddy", "RRR"]
 movies[2]="Geetha Govindam"
 for movie in movies:
     print(movie)
+
 
 # removing movie from list
 movies = ["Dear Comrade", "Arjun Reddy", "RRR"]
