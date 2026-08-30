@@ -33,11 +33,9 @@ print(sentence.upper())
 print(sentence.replace("a","A"))
 print(sentence.count("a"))
 
-
 # strings
 name = input(" Enter your name:")
 print(f"Good morning {name}")
-
 
 # letter using multiline comments
 letter = '''Dear <|NAME|>,
@@ -45,15 +43,12 @@ You are selected!
 <|DATE|>'''
 print(letter.replace("<|NAME|>","Manas").replace("<|DATE|>","19/05/2026"))
 
-
 # detect double space 
 m = "I am hired"
 print(m.find("  "))
 
-
 # replace double sapce with single space 
 print(m.replace("  ", " "))
-
 
 # special characters in  sentence 
 letter = "Dear ,\nThis python course is nice.\nThanks!"
