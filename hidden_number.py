@@ -7,4 +7,3 @@ elif guess > hidden_number:
     print("High")
 else:
     print("Low")
-  
