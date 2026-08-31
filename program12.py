@@ -3,6 +3,6 @@ x=(input("Enter the letter:"))
 x=x.lower()
 if x in "aeiou":
     print(x,"is a vowel")
-else:
+else:  
     print(x,"is a constant")
 
