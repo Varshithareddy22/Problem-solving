@@ -5,3 +5,4 @@ if x in "aeiou":
     print(x,"is a vowel")
 else:
     print(x,"is a constant")
+
