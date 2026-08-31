@@ -7,7 +7,6 @@ y=temp
 print(x,y)
 
 
-
 # swapping a variable without temp variable
 x=1
 y=2
