@@ -19,3 +19,4 @@ l=int(input("enter the length:"))
 b=int(input("enter the breadth:"))
 area_of_rectangle= l*b
 print(area_of_rectangle,"cm^2") 
+
