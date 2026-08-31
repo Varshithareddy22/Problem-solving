@@ -6,7 +6,7 @@ elif x%7==0 :
     print(x,"is divisible by 7")
 else:
     print(x,"is not divible 3 or 7")     
-
+  
 
 # finding number divisible by 5 and 11
 x= int(input("enter the variable:"))
