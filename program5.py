@@ -6,7 +6,7 @@ if x>=18 :
 else:
     print("Not eligible to vote")
 
-
+ 
 #2 finding greatest of three numbers
 x= int(input("enter the value of x:"))
 y= int(input("enter the value of y:"))
