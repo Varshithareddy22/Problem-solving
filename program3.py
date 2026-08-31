@@ -9,7 +9,7 @@ x= int(input("enter current year:"))
 y= int(input("enter your birth year:"))
 a= x-y
 print("your age is",a)
-
+   
   
 #3  Multiplying no
 x= int(input("enter number:"))
