@@ -11,7 +11,7 @@ for a in range (1,6):
 #for loop with range in detail
 for a in range (0,20,2):
     print(a)
-
+ 
 
 #for loop through a string
 name = "varshitha"
