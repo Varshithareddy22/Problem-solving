@@ -13,4 +13,4 @@ for a in range (0,20,2):
 #for loop through a string
 name = "varshitha"
 for a in name:
-    print(a)      
+    print(a)
