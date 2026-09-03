@@ -12,7 +12,7 @@ for a in range (0,20,2):
     print(a)
  
 
-#for loop through a string
+# for loop through a string
 name = "varshitha"
 for a in name:
     print(a)
