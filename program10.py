@@ -22,7 +22,7 @@ else:
     print(reverse,"is not palindrome")
 
 
-# factorial
+# factorial of a number 
 x= int(input("Enter the number"))
 factorial=1
 i=1
