@@ -1,2 +1,2 @@
-# print
+# print function 
 print("hello guys!")
