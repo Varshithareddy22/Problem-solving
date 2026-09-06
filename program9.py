@@ -13,7 +13,6 @@ i=1
 while i<=10:
     print(x*i)
     i=i+1
-       
 
 #multiplication table using for loop
 x=int(input("enter the number:"))
