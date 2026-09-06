@@ -6,7 +6,7 @@ while i<=x:
     sum=sum+i
     i=i+1
 print(sum)
-
+          
 
 #multiplication table
 x= int(input("enter the table:"))
