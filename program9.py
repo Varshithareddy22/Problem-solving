@@ -28,7 +28,6 @@ while x>0:
     i=i+1
 print(i)
 
-
 #sum of digits
 x= int(input("enter the number:"))
 i=0
@@ -36,5 +35,4 @@ while x>0:
     a=x%10
     i=a+i
     x=x//10
-print(i)    
-
+print(i)
