@@ -35,9 +35,9 @@ for i in range (1,6):
     if i ==4:
         continue
     print(i)
-'''
+
 #nested loop
 for i in range (1,4):
     for j in range (1,4):
         print(i,j)
- 
+''' 
