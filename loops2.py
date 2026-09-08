@@ -1,4 +1,3 @@
-'''
 #print numbers
 for i in range (1,21):
     print(i)
@@ -14,9 +13,10 @@ while i<=100:
     sum=sum+i 
     i=i+1
 print(sum)
-'''
+
 #multiplication table 
 i=1
 while i<=10:
     print(5*i)
     i=i+1
+
