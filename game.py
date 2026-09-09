@@ -11,6 +11,6 @@ elif (user == "rock" and computer == "scissors") or\
      (user == "scissors" and computer == "paper"):
     print("Player wins!")
 else:
-    print("Computer wins!") 
+    print("Computer wins!")             
   
          
