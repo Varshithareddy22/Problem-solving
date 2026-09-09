@@ -1,7 +1,7 @@
 # STRINGS 
 # printing a string
 sentence=input("Enter the sentence:")
-print(sentence)
+print(sentence)             
                             
 # length of string
 sentence=input("Enter the sentence:")        
