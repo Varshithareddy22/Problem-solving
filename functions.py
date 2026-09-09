@@ -3,7 +3,7 @@ def greet():
     print("Hello Varshitha")
 greet()
 greet()
-
+         
 #function2
 def greet(name):
     print("Hello",name)
