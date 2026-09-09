@@ -4,8 +4,8 @@ print(movies)
       
 # print list in sequence
 movies = ["Dear Comrade", "Arjun Reddy", "RRR"]
-for movie in movies:  
-    print(movie)          
+for movie in movies: 
+    print(movie)   
 
 # adding movies
 movies = ["Dear Comrade", "Arjun Reddy", "RRR"]
