@@ -24,4 +24,4 @@ y= int(input("enter the value of y:"))
 if (x>0) and (y>0) :
     print(x,y,"numbers are positive")
 else :
-    print(x,y,"numbers are not positive")    
+    print(x,y,"numbers are not positive")
