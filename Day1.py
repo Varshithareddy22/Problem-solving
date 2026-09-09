@@ -6,7 +6,7 @@ print(movies)
 movies = ["Dear Comrade", "Arjun Reddy", "RRR"]
 for movie in movies: 
     print(movie)   
-
+        
 # adding movies
 movies = ["Dear Comrade", "Arjun Reddy", "RRR"]
 movies.append("Kingdom")
