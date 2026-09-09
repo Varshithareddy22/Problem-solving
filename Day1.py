@@ -10,7 +10,7 @@ for movie in movies:
 # adding movies
 movies = ["Dear Comrade", "Arjun Reddy", "RRR"]
 movies.append("Kingdom")
-for movie in movies:
+for movie in movies:   
     print(movie)
 
 # changing movies
