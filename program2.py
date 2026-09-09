@@ -16,3 +16,10 @@ y=x-y
 print(x,y)
 x=x-y
 print(x,y)
+
+x=1
+y=2
+x=x+y
+y=x-y
+x=x-y
+print(x,y)
