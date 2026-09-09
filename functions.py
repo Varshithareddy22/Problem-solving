@@ -1,4 +1,3 @@
-'''
 #function1
 def greet():
     print("Hello Varshitha")
@@ -25,4 +24,3 @@ result1 = add(5,18)
 result2 = add(18,23)
 print(result1)
 print(result2)
-'''
