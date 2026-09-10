@@ -20,7 +20,7 @@ for i in range (1,11,+1):
     print(x*i)
     i=i+1
 
-#count digits
+# count digits
 x= int(input("enter the number:"))
 i=0
 while x>0:
