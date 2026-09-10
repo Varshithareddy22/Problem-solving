@@ -1,4 +1,4 @@
-# finding vowel and constants
+# finding vowel and constants using conditional statement
 x=(input("Enter the letter:"))
 x=x.lower()            
 if x in "aeiou":
