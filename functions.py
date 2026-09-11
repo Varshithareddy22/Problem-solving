@@ -11,7 +11,7 @@ greet("Varshitha")
 greet("Smriti")
 greet("Jemi")    
 
-#function with multiple inputs and adding two no
+#function with multiple inputs and adding two number
 def add(a,b):
     print(a+b)
 add(2,3)
