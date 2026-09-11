@@ -4,7 +4,7 @@ def greet():
 greet()
 greet()
          
-#function2
+# function2
 def greet(name):
     print("Hello",name)
 greet("Varshitha")
