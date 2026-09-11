@@ -17,7 +17,7 @@ name = "varshitha"
 for a in name:
     print(a)
 
-#infinite loop
+# infinite loop
 i = 2
 while i <= 5:
     print(i)
