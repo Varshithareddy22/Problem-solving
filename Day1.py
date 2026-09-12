@@ -1,6 +1,6 @@
 ## lists
 # movie list manager         
-movies = ["Dear Comrade", "Arjun Reddy", "RRR"]
+movies = ["Dear Comrade", "Arjun Reddy", "RRR"]    
 print(movies)            
       
 # print list in sequence
