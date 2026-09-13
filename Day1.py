@@ -22,7 +22,7 @@ for movie in movies:
 
 # removing movie from list
 movies = ["Dear Comrade", "Arjun Reddy", "RRR"]
-movies.remove("RRR")
+movies.remove("RRR") 
 for movie in movies:
     print(movie)
 
