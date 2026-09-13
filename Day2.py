@@ -14,7 +14,7 @@ print(sentence[-1])
 
 # string slicing
 sentence=input("Enter the sentence:")
-print(sentence[0:4])
+print(sentence[0:4]) 
 
 #string conversions
 sentence=input("Enter the sentence:")
