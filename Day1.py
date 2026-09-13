@@ -20,7 +20,6 @@ movies[2]="Geetha Govindam"
 for movie in movies:
     print(movie)
 
-
 # removing movie from list
 movies = ["Dear Comrade", "Arjun Reddy", "RRR"]
 movies.remove("RRR")
