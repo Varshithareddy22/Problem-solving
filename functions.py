@@ -1,4 +1,4 @@
-# function1 greet 
+# function1 greeting 
 def greet():
     print("Hello Varshitha")
 greet()
