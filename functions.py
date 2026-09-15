@@ -17,7 +17,7 @@ def add(a,b):
 add(2,3)
 add(5,18)    
 
-# function with return statement 
+# function with return statement using parameters
 def add(a,b):
     return a+b
 result1 = add(5,18)
