@@ -1,23 +1,23 @@
-#function1
+# function1 greeting 
 def greet():
     print("Hello Varshitha")
 greet()
 greet()
-
-#function2
+         
+# function2
 def greet(name):
     print("Hello",name)
 greet("Varshitha")
 greet("Smriti")
 greet("Jemi")    
 
-#function with multiple inputs
+#function with multiple inputs and adding two number
 def add(a,b):
     print(a+b)
 add(2,3)
 add(5,18)    
 
-#return function
+# function with return statement using parameters
 def add(a,b):
     return a+b
 result1 = add(5,18)

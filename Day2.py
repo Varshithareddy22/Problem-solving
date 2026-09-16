@@ -1,20 +1,20 @@
 # STRINGS 
 # printing a string
 sentence=input("Enter the sentence:")
-print(sentence)
- 
+print(sentence)           
+                            
 # length of string
-sentence=input("Enter the sentence:")        
-print(sentence)
+sentence=input("Enter the sentence:")          
+print(sentence) 
 print(len(sentence))
-                       
+
 # negative indexing
 sentence=input("Enter the sentence:")
-print(sentence[-1])
- 
-# string slicing 
+print(sentence[-1])        
+
+# string slicing
 sentence=input("Enter the sentence:")
-print(sentence[0:4])
+print(sentence[0:4]) 
 
 #string conversions
 sentence=input("Enter the sentence:")
@@ -22,8 +22,8 @@ print(sentence.lower())
 print(sentence.upper())
 print(sentence.replace("a","A"))
 print(sentence.count("a"))
-
-# print sentence using strings all at a time
+ 
+# printing sentence using strings all at a time
 sentence=input("Enter the sentence:")
 print(len(sentence))
 print(sentence[-1])

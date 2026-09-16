@@ -12,5 +12,5 @@ print("Area of the square is",area_of_square)
   
 #calcuate the area of the cube 
 x= int(input("enter the side of the cube"))
-area_of_cube= 6*(x** 2)
+area_of_cube= 6*(x** 2)          
 print("Area of the cube is",area_of_cube)

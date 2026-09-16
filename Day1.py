@@ -1,13 +1,14 @@
+ ## lists 
 # movie list manager
-movies = ["Dear Comrade", "Arjun Reddy", "RRR"]
-print(movies)
+movies = ["Dear Comrade", "Arjun Reddy", "RRR"]    
+print(movies)     
       
-# print list in sequence
+# print list in sequence 
 movies = ["Dear Comrade", "Arjun Reddy", "RRR"]
-for movie in movies:  
-    print(movie)      
-
-# adding movies
+for movie in movies: 
+    print(movie)
+        
+# adding movies 
 movies = ["Dear Comrade", "Arjun Reddy", "RRR"]
 movies.append("Kingdom")
 for movie in movies:
@@ -19,10 +20,9 @@ movies[2]="Geetha Govindam"
 for movie in movies:
     print(movie)
 
-
 # removing movie from list
 movies = ["Dear Comrade", "Arjun Reddy", "RRR"]
-movies.remove("RRR")
+movies.remove("RRR") 
 for movie in movies:
     print(movie)
 
