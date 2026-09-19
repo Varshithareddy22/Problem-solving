@@ -1,5 +1,5 @@
 #checking how many times a mul element is repeated 
-arr=[5,8,5,9,5,9,1]
+arr=[5,8,5,9,5,9,1] 
 target1=5
 target2=9
 count1=0
