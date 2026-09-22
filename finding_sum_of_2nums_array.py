@@ -11,4 +11,3 @@ while left<right:
         right-=1
     elif total<target:
         left+=1
-
