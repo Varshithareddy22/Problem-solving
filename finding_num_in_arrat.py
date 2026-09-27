@@ -1,4 +1,4 @@
-#without using flag
+#without using flag 
 '''
 arr=[10,5,18,23,9]
 target=18
