@@ -1,3 +1,4 @@
+# finding second largest elemeent in array
 arr=[10,5,18,23,9]
 largest=arr[0]
 second_largest=arr[1]
