@@ -1,5 +1,5 @@
 arr=[5,10,15,20,25]
-print(arr)
+print(arr) 
 print(type(arr))
 print(arr[2])
 
