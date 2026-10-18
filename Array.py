@@ -9,4 +9,4 @@ for num in arr:
 
 arr=[5,10,15,20,25]
 for i in range(len(arr)): 
-    print(i)
+    print(i)  
