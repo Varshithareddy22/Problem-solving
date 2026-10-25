@@ -4,7 +4,7 @@ print(type(arr))
 print(arr[2])
 
 arr=[5,10,15,20,25] 
-for num in arr:
+for num in arr:n
     print(num)
 
 arr=[5,10,15,20,25]
